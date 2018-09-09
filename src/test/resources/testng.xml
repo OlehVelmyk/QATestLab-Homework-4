@@ -8,17 +8,17 @@
         </packages>
     </test>
 
-    <!--<test name="Create New Product [Firefox]" >
+    <test name="Create New Product [Firefox]" >
     <parameter name="browser" value="firefox" />
         <packages>
             <package name="myprojects.automation.assignment4.*"/>
         </packages>
-    </test>-->
+    </test>
 
-    <!--<test name="Create New Product [IE]" >
+    <test name="Create New Product [IE]" >
         <parameter name="browser" value="ie" />
         <packages>
             <package name="myprojects.automation.assignment4.*"/>
         </packages>
-    </test>-->
+    </test>
 </suite>
